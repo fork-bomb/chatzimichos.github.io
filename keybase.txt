@@ -1,78 +1,85 @@
+==================================================================
 https://keybase.io/tampakrap
 --------------------------------------------------------------------
 
 I hereby claim:
 
-  * I am an admin of http://chatzimichos.gr
+  * I am an admin of https://chatzimichos.gr
   * I am tampakrap (https://keybase.io/tampakrap) on keybase.
   * I have a public key with fingerprint 7B66 9D4E 34C3 DE6C 928A  317B 9640 E4FA 2948 5B97
 
 To do so, I am signing this object:
 
 {
-    "body": {
-        "client": {
-            "name": "keybase.io node.js client",
-            "version": "0.7.3"
-        },
-        "key": {
-            "fingerprint": "7b669d4e34c3de6c928a317b9640e4fa29485b97",
-            "host": "keybase.io",
-            "key_id": "9640E4FA29485B97",
-            "uid": "7b605fdab03e7c25f1c56747e186c400",
-            "username": "tampakrap"
-        },
-        "merkle_root": {
-            "ctime": 1435476668,
-            "hash": "be129954dd33041f345b9e15cd63df26245cd8bf9f09e11c4f41ef46cb95eeb873b367dc996ab56db7468edbc90a932e506d7088c8c2eae29045658b2e2da04a",
-            "seqno": 253366
-        },
-        "service": {
-            "hostname": "chatzimichos.gr",
-            "protocol": "http:"
-        },
-        "type": "web_service_binding",
-        "version": 1
+  "body": {
+    "key": {
+      "eldest_kid": "01014a1673b757900d31893b94b931e1d6ae1de4b4fb7b1ec1fb27d5d946cf2e5f8f0a",
+      "fingerprint": "7b669d4e34c3de6c928a317b9640e4fa29485b97",
+      "host": "keybase.io",
+      "key_id": "9640e4fa29485b97",
+      "kid": "01014a1673b757900d31893b94b931e1d6ae1de4b4fb7b1ec1fb27d5d946cf2e5f8f0a",
+      "uid": "7b605fdab03e7c25f1c56747e186c400",
+      "username": "tampakrap"
     },
-    "ctime": 1435476905,
-    "expire_in": 157680000,
-    "prev": "4223fede84ba53391963aa07d935ceac8e15e1e2ddc57b430ef855ed1009de69",
-    "seqno": 69,
-    "tag": "signature"
+    "merkle_root": {
+      "ctime": 1532809125,
+      "hash_meta": "2ab7f3b0bcb2a5d0c17edc391757af9d4bd8db8880371e9fe88a0bb2c071c369",
+      "seqno": 3349589
+    },
+    "revoke": {
+      "sig_ids": [
+        "ae8f473e210ceb96741081d7e1a5d5062dcb0d37252c7bd6447782bd36ab13860f"
+      ]
+    },
+    "service": {
+      "hostname": "chatzimichos.gr",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1532809166,
+  "expire_in": 157680000,
+  "prev": "1caf16911467e53406e50e77cb8eabfb40ed8f9980cc18118d6137f3a0037880",
+  "seqno": 113,
+  "tag": "signature"
 }
 
 which yields the signature:
 
 -----BEGIN PGP MESSAGE-----
 
-owFVkntQFXUUxy9vIiG0kMrH0JbgFHPZ5293b/KIUQKlAao7k0lc9vHbywL37mXv
-8uZe6KEBxYA64JhTGqCNExriQFmJKMbgwIyhViCYDmlIQJIzOemktMvQlPvXb8/v
-c77nfM/vNIX6mUJ8zl3edo3uX5nuMzTNm6yNbYcrEV4RyxFLJSIUytCpGScn54CI
-BSmA5TznhmZZiXIqIjTnu6OWmFikBKpuWXHqFGqmzQTiiTVwI1mSnXaoulTZ0EJo
-HgBWJCFBCoQIgcDiDEdgNM8CEoWkxOEsyVA8S+uSeYpbe6gqsqhpk0U9avCbyJSX
-FvnkRb548UIvgFKSyPEoAWkBpyRMoABN0hBjgECiqAG6obpkSeMcLq5A5VxGww6o
-FhRCm6ooi64FTTYYjCQokgYAMHpLnDtPz+IhhrMsRYoiQaAkJhGk3jLEKEEEhCjh
-ACf1I8NLrITqYUwgJRKDEgkEnqUg5Bma4AlAiwLLAo6ngMjTJGCgyAssyrEEDikU
-iDTKMAIj4JCDOIuSFKAYHoe4yKEkp3twwyKnglhwiiAA8Bj/aoksQKNvY25L9oQ8
-TquQHbKgx8x2Vc9zqYqmCEqhfpmnaS6L4VsrdxlwVynkbUs6Nl52ivrD/f9lMR19
-eCYsSsUisMwlq9AmGwRFAwbVP6MOLNE1SRwnJChChuQ5vVUWYwHBcSgtsgQlQE5g
-9KlBTLclChTNkwQKJYaioIihKKuvB/ufU8DqjXJ2XdMt252cVqxCxFPnu9rf5BNi
-CgzwNXbXFPJI+L8LPbzmsb+DBwciF46++NzUm/tqTNn3LzUWWQekbdPtmZtbY5PP
-prSo8LtMV/Ch2poBdVl2+nT4gQc95jMJ1qTMKrW88GbcWNf+zrkPX3VfyXg3/qJX
-KwgcOl49cnM2Je9gwqjQcTH0RAwSN7m9oiF5MOHl1YniXv+5+fW59sH5yPcy6iI6
-x4Bpz7E/stsu1Td/WhjpSArYH7T+ZNBIhPdqxbqGRk/W/frPHH7O2KDzSVMbei7k
-1g/vmLcw9rKqj77vRzKag2OWNf3Ja6ndK/niiNH8vkTPjXUjzAl7+zvXxNYtjrLt
-9zru5Yb7LzSV3F3rsZVR37T/SlS5T7ErtnZMTfXuOidn/xw9eeHq+3dri+Z+9ER/
-kWOt6DvtN9zfMjoxPjPTFvY8k+jweL8ttUwJPxzo6w683oonh1VfDv3ytV0z2t6v
-cvPxmN21JS8sryFunVcbuyZOHZmwp2dh8VuxgOxNvVObS6zivpnGjVFXfjctfLJq
-59ons7hx4qfSquOP3ohOptjP76T6PJ7FHe72hlamHl2etvH27CumFc3t87f23AEH
-c4J74xs81WlvWL/Oao5TAv6aHCrAeurSWvxbnnAkoVsCpxdASNp2JxKWI55+e8MR
-s2+kv62qy/txL7dzrD7mqdet4/NUZ8HM7kRl7MGzvd5njnk/eOuXXJ/Z0DNrzlY1
-Zq+6/tuhkx23n/4H
-=uWOX
+owGtk3tsFEUcx+9Km9SStihYUCmPBaRIqTP7mtlDBFqCtKFAYytpq9ztzM7ebdp7
+dO/aAuWhBqWkPBoKIiaCBNDKq1AQASOvClgglKBIWoGCgEBQSVGhpALONRAT45/u
+H7vZ335/3993PjtTm9jDkeBsbiu+hJpSJjtP3CSO4jdbzlQJJGjMElxVQgnrfrBS
+g4Uj7hLLEFwCgADKOlSRRJCCNAAMCWJNIppMNAkyaKg6vzGZyCZBBDIKTSIiQzE0
+WaWmyBQTm0AX0gXTCniZHbKtQITbIqKqmiEzSaaSwVSqiViXICKaKgMmm7qoyVgh
+GuKNvmA42sHDET3MMqwgr/EXd3e8/9D/z7nLu+14XqCYhk6AxBAVFRNSRUUyYhCr
+VAYgKgwzO6D7GVdHdH9IL7H1kDA3XfAzu6SUue1gMBKlSyNWVAMVScRAg6LCV6iH
+fW4/i+i8VdQJMiUCCCWirhiAQsQMKmmQr0I3OTJiYINgjIGEINNMhrEOCBEpQJBK
+qsaDhFlZICi4JEnWFKzxBDarCJaw6PCw5eXcwoKrWNAZPjjHlJHERAgo4+SRDAGG
+Bl8TH6wAVTQo4diQqIgUEUOVZYSwSAxJ1QmUsApM4a250XF2hUW77aO/6jEC6tMj
+sy2/RXktw2vzWCE7GAnSYCn/6ItEQmFXFE5kViiqrmTE/djHTayAwfcK76hgdtgK
+BjgsrvwXN1VNF9jMkGUztxVVKEjFgF/ROayCW0Kqm1DVIJRVxBRJBipTAEOIEsx0
+YhK+bwxsahoGlEIMITZUKHH0OuBkOd5/QEIo8aC6l5tyfgE9Um4zYW7Cohgp1uFM
+cKSmDI4tX7MxsWh05ijPo6n7nhywuJjo6XIkPNXrSeX2nORHMxzjwrXTi9Ka/5hY
+VTTZedxRu5s0xIxbOMnR6mpKd12PufPXoJovVjXeT6sbeMw7MqWXfaZw5aWhmVuz
+OtcnpNwu3PN9Zkbba3/mtjfuXTfquTTnxz/N71F38Td6Z/qEN2IP53wSjPPdXevf
+8u1gAq6KDXDwkd5N2+jQ02NzjhyYfa8sp+jCwsptLx4+DrJnvm+dH/b1uuGJJQs9
+MYtv1UdiCrs60eqqrA37f16W7Hs9sD17/s62Y3VT9/dp7rNxx5bluKw+/5muxDE7
+P/z0144J+wu8G/I3gpaaCVtzzqZugtWfD5tx7Eaa4cEP4pJ2ymsbYmtetc/lebS9
+Q6anFS54+p5n5ar2U0vvZ7/z4Ifz8UrF2337v7TrwP1JN/uObY/PrNZ/nNLKbmx3
+aM93JAiXbq04evGr+lRj5JgB/cqT5jlHPjpUPWLM+VB+Zc+837+bt22J9+TDaaeL
+W3p3tV8ftvnKLqHxVP57ufCVgh3XpZqJvoP9d/sznVmzKozLjQcObf/lal7LwNpe
+yzdJ2WkvJC/4Mv9k385TGXuavbnvDjzbY9m03eOfvdJ/EjpRmdXpGTKgoPguuhzf
+uuKjrnSz6lx9Wc+7L3/2wSa1qWmKZ8/o+UnfXMPDO911I5pX1V1oaB2fZPoqU/rV
+bj4bVx6//sqZDWvF1Q1Lh+QOOpS36HTHzCM3C9rysluPLn6Yui+59NqJGx1r/gY=
+=YRf7
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
 
 View my publicly-auditable identity here: https://keybase.io/tampakrap
+
+==================================================================
